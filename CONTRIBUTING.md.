@@ -1,0 +1,17 @@
+Contribution guidelines
+Welcome Contributors!
+Thanks you for considering contributing to the centralized repository. This document outlines the guidelines for contrubuting to the deelopment of Shipping Rates.
+
+Code style
+Please follow the coding style and conventions used in the existing codebase. This helps main consistency across the proyect.
+
+Cosumentation
+Ensure that your contributions are well-documented. Include comments in your code where necessary and provide a clear and consise description of your chages in t
+
+Testing 
+Before submitting a pull request, make sure your changes have been tested thoroughly. Include relevant test cases and ensure that existing tests pass.
+
+Issue tracker 
+Check the issue tracker for any open issues or feature requests. If you're working on something, please comment on the issue to let others know.
+
+Code rewiw 
